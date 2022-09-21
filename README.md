@@ -1,4 +1,4 @@
 # passGen
 
-- Simple password generator [passGen](nztau.github.io/passGen/)
+- Simple password generator [passGen](https://nztau.github.io/passGen/)
 - js/html/css
