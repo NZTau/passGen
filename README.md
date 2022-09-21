@@ -1,2 +1,5 @@
 # passGen
-PassGen app clean js/html/css
+
+- Simple password generator
+- js/html/css
+- nztau.github.io/passGen/
