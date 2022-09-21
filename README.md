@@ -2,4 +2,4 @@
 
 - Simple password generator
 - js/html/css
-- [passGen](nztau.github.io/passGen/)
+- [passGen](nztau.github.io/passGen)
